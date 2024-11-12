@@ -4,3 +4,6 @@
 int i = 0;
 cout << i << endl;
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
